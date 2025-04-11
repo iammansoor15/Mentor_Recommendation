@@ -1,0 +1,31 @@
+name,college,subjects,place,languages_spoken,mentorship_style,available_times,mode_of_mentorship,years_of_experience
+Rahul,NLU Delhi,"English, Current Affairs",Mumbai,"Bengali, Tamil",Flexible,Evenings,In-person,5
+Meera,NLU Delhi,"English, Logical Reasoning",Hyderabad,"Hindi, Telugu",Structured,Mornings,In-person,2
+Aditi,NLU Delhi,"English, Legal Reasoning",Mumbai,"English, Marathi",Friendly,Afternoons,Hybrid,5
+Sneha,GNLU,"Legal Reasoning, Legal GK",Lucknow,"Marathi, Hindi",Structured,Mornings,Hybrid,5
+Arjun,NLU Jodhpur,"Logical Reasoning, Torts",Bhopal,"Bengali, Hindi",Flexible,Afternoons,Online,3
+Kunal,NLU Delhi,"Legal Reasoning, English",Delhi,"English, Marathi",Friendly,Evenings,Hybrid,4
+Neha,GNLU,"Legal GK, Legal Reasoning",Patna,"Tamil, Marathi",Friendly,Evenings,Hybrid,3
+Ishaan,NLU Jodhpur,"Current Affairs, Legal Reasoning",Delhi,"Bengali, Telugu",Flexible,Evenings,In-person,4
+Divya,NALSAR,"Logical Reasoning, Legal GK",Delhi,"Telugu, Tamil",Flexible,Mornings,In-person,1
+Rohit,GNLU,"English, Logical Reasoning",Bangalore,"Bengali, Hindi",Structured,Mornings,Hybrid,1
+Tanya,NLSIU,"Current Affairs, Contract Law",Mumbai,"English, Marathi",Structured,Evenings,In-person,5
+Aniket,NLSIU,"Criminal Law, English",Kolkata,"Marathi, Bengali",Strict,Evenings,Online,4
+Priya,NLU Delhi,"Logical Reasoning, Torts",Mumbai,"English, Bengali",Flexible,Mornings,In-person,1
+Nikhil,NLU Delhi,"Torts, Legal Reasoning",Chennai,"English, Bengali",Structured,Afternoons,In-person,3
+Kriti,NLU Delhi,"Contract Law, English",Bangalore,"Marathi, Hindi",Structured,Evenings,In-person,4
+Sahil,NLSIU,"Contract Law, Current Affairs",Bangalore,"Tamil, Marathi",Strict,Mornings,Hybrid,1
+Ananya,NALSAR,"Legal GK, Logical Reasoning",Bangalore,"Bengali, Marathi",Strict,Afternoons,Online,3
+Varun,NLSIU,"Constitutional Law, Legal GK",Lucknow,"Bengali, Marathi",Strict,Mornings,Online,3
+Pooja,NLU Jodhpur,"Constitutional Law, English",Chennai,"Bengali, Hindi",Strict,Evenings,In-person,3
+Abhay,NUJS,"Current Affairs, Torts",Bhopal,"Bengali, Marathi",Flexible,Mornings,Online,2
+Shruti,NALSAR,"English, Torts",Delhi,"Telugu, English",Friendly,Afternoons,Online,4
+Yash,NLU Delhi,"Current Affairs, Constitutional Law",Hyderabad,"English, Hindi",Structured,Mornings,Online,4
+Riya,NLSIU,"Logical Reasoning, Torts",Hyderabad,"Marathi, Bengali",Structured,Evenings,Hybrid,5
+Manish,NUJS,"Logical Reasoning, Torts",Hyderabad,"Telugu, Tamil",Flexible,Afternoons,Hybrid,3
+Simran,GNLU,"Constitutional Law, Contract Law",Hyderabad,"Bengali, Telugu",Strict,Afternoons,Hybrid,2
+Karan,NUJS,"Constitutional Law, Criminal Law",Jaipur,"Bengali, Hindi",Structured,Afternoons,Online,5
+Isha,GNLU,"Torts, Current Affairs",Lucknow,"Telugu, Hindi",Flexible,Afternoons,Online,1
+Aarav,GNLU,"Logical Reasoning, Constitutional Law",Bangalore,"English, Telugu",Friendly,Evenings,In-person,2
+Diya,NUJS,"Contract Law, Criminal Law",Chennai,"Tamil, Bengali",Flexible,Afternoons,Online,2
+Sanjay,NLU Delhi,"Current Affairs, Criminal Law",Bhopal,"Bengali, Tamil",Flexible,Afternoons,Online,2
